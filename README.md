@@ -70,13 +70,6 @@ The **ScreenMatch** project is a Java-based application designed to manage multi
    ```bash
    git clonehttps://github.com/DiiegoA/creando-tu-primera-API-y-conect-ndola-al-Front-End.git
    ```
-2. **Navigate to the directory**:
-   ```bash
-   cd your-repository-folder
-   ```
-3. **Run the application**:
-   ```bash
-   ./gradlew bootRun
    ```
 
 ## System Requirements
