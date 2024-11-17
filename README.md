@@ -70,7 +70,6 @@ The **ScreenMatch** project is a Java-based application designed to manage multi
    ```bash
    git clonehttps://github.com/DiiegoA/creando-tu-primera-API-y-conect-ndola-al-Front-End.git
    ```
-   ```
 
 ## System Requirements
 - **Java SDK 8 or higher**
