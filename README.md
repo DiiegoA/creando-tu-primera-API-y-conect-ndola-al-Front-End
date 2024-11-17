@@ -70,7 +70,7 @@ The **ScreenMatch** project is a Java-based application designed to manage multi
 ## How to Run
 1. **Clone the Repository**: Use the following command:
    ```bash
-   git clone https://github.com/your-repository-url.git
+   git clonehttps://github.com/DiiegoA/creando-tu-primera-API-y-conect-ndola-al-Front-End.git
    ```
 2. **Navigate to the directory**:
    ```bash
@@ -85,6 +85,3 @@ The **ScreenMatch** project is a Java-based application designed to manage multi
 - **Java SDK 8 or higher**
 - **Spring Boot**
 - **Internet Connection** for API calls
-
-## Contact
-For further inquiries, contact: [your-email@example.com]
