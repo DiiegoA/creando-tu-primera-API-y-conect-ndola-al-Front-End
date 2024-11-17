@@ -12,8 +12,7 @@ The **ScreenMatch** project is a Java-based application designed to manage multi
 
 
 ## Files Overview
--
-**screenmatch/src/main/java/com/aluracursos/screenmatch/model/Episodio.java**: Represents an episode in the application’s data structure, providing details such as episode number, title, and rating.
+-**screenmatch/src/main/java/com/aluracursos/screenmatch/model/Episodio.java**: Represents an episode in the application’s data structure, providing details such as episode number, title, and rating.
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/model/Serie.java**: Defines a series as a whole, linking episodes and seasons and enabling access to specific series data.
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/repository/SerieRepository.java**: A data access interface enabling CRUD operations on stored series and offering methods to query series by title and rating.
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/service/ConsultaDeepL.java**: Integrates the DeepL API for text translation. Sends HTTP requests to DeepL to obtain translations, facilitating content internationalization.
@@ -31,8 +30,7 @@ The **ScreenMatch** project is a Java-based application designed to manage multi
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/model/DatosEpisodio.java**: Stores detailed information about episodes, such as title, duration, and ratings.
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/model/DatosSerie.java**: Contains data about series, including metadata like title, description, and category.
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/model/DatosTemporadas.java**: Structures information about seasons, organizing episodes within specific seasons.
--
-**screenmatch/src/main/java/com/aluracursos/logger/loggerbase/LoggerBase.java**: Base class for handling logging throughout the application. Includes methods to log and display error and warning messages.
+-**screenmatch/src/main/java/com/aluracursos/logger/loggerbase/LoggerBase.java**: Base class for handling logging throughout the application. Includes methods to log and display error and warning messages.
 - **screenmatch/src/main/java/com/aluracursos/logger/loggerbase/LoggerBaseImpl.java**: Specific implementation of LoggerBase that manages the details of event logging, ensuring errors and events are consistently documented.
 
 - **screenmatch-frontend/css/detalhes.css**: Stylesheet for the details page, defining layout and responsive design for episode descriptions and listings.
