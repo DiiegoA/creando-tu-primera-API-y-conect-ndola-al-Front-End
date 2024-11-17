@@ -12,7 +12,7 @@ The **ScreenMatch** project is a Java-based application designed to manage multi
 
 
 ## Files Overview
--**screenmatch/src/main/java/com/aluracursos/screenmatch/model/Episodio.java**: Represents an episode in the application’s data structure, providing details such as episode number, title, and rating.
+- **screenmatch/src/main/java/com/aluracursos/screenmatch/model/Episodio.java**: Represents an episode in the application’s data structure, providing details such as episode number, title, and rating.
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/model/Serie.java**: Defines a series as a whole, linking episodes and seasons and enabling access to specific series data.
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/repository/SerieRepository.java**: A data access interface enabling CRUD operations on stored series and offering methods to query series by title and rating.
 - **screenmatch/src/main/java/com/aluracursos/screenmatch/service/ConsultaDeepL.java**: Integrates the DeepL API for text translation. Sends HTTP requests to DeepL to obtain translations, facilitating content internationalization.
